@@ -1,6 +1,6 @@
 #!/bin/bash
 
-name="Shell"
+name="Site"
 url="http://www.baidu.com/"
 str1=$name$url  #中间不能有空格
 str2="$name $url"  #如果被双引号包围，那么中间可以有空格
